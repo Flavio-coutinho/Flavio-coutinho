@@ -1,4 +1,4 @@
-## Oiiii eu sou o Flávio Coutinho
+## Hello I'm Flávio Coutinho, FullStack Developer
 
 <div>
   <a href="https://github.com/Flavio-coutinho">
