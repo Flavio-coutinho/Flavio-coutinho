@@ -16,8 +16,6 @@ My Stack is mainly:arrow_down: :
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=&logoColor=white)
 ![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
