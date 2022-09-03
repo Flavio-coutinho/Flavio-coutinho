@@ -18,4 +18,5 @@ My Stack is mainly:arrow_down: :
 ![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-5FD9FB?style=for-the-badge&logo=react&logoColor=black)
 
