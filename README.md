@@ -14,9 +14,5 @@
 I love coding and spending my time writing open-source:globe_with_meridians: <br>
 My Stack is mainly:arrow_down: :
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=&logoColor=white)
-![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-5FD9FB?style=for-the-badge&logo=react&logoColor=black)
 
+[![My Skills](https://skillicons.dev/icons?i=go,aws,docker,dotnet,react,graphql,kubernetes,postgres,postman,rabbitmq,redis,visualstudio,kafka,vscode,sqlite,github,git&perline=10)](https://skillicons.dev)
