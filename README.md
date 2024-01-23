@@ -1,4 +1,4 @@
-# Flávio Coutinho:technologist::zap:
+# Flávio Coutinho
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://https://www.linkedin.com/in/fl%C3%A1vio-coutinho-76b7361a9/) 
