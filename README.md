@@ -15,4 +15,4 @@ I love coding and spending my time writing open-source :globe_with_meridians: <b
 My Stack is mainly :arrow_down:
 
 
-[![My Skills](https://skillicons.dev/icons?i=go,nodejs,nextjs,aws,docker,graphql,kubernetes,postgres,postman,rabbitmq,redis,visualstudio,kafka,vscode,github,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,go,nodejs,nextjs,aws,docker,graphql,kubernetes,postgres,postman,rabbitmq,redis,visualstudio,kafka,vscode,github,git&perline=10)](https://skillicons.dev)
